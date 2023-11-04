@@ -4,7 +4,7 @@ Submitted by: **Xiao Lan**
 
 **Task** is an to-do list app. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
