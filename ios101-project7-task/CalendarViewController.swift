@@ -242,6 +242,10 @@ extension CalendarViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return selectedTasks.count
     }
+    
+    func newTableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return selectedTasks.count
+    }
 
     // Create and configure a cell for each row of the table view (i.e. each task in the selectedTasks array)
     // 1. Dequeue a Task cell.
